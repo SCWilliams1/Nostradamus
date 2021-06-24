@@ -1,0 +1,17 @@
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Nostra3.exe
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Nostra3.deps.json
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Nostra3.runtimeconfig.json
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Nostra3.runtimeconfig.dev.json
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Nostra3.dll
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Nostra3.pdb
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.AssemblyInfoInputs.cache
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.AssemblyInfo.cs
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.csproj.CoreCompileInputs.cache
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.dll
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.pdb
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.genruntimeconfig.cache
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.csproj.AssemblyReference.cache
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\Repos\Nostra3\Nostra3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\Repos\Nostra3\Nostra3\obj\Debug\netcoreapp3.1\Nostra3.csproj.CopyComplete
